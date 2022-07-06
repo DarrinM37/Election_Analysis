@@ -4,7 +4,7 @@
 
 The total number of votes were counted using Python to help give a better visual representation of all votes casted towards all three people running. To help understand what counties are voting the most in the election process.
 
-Election-Audit Results-
+### Election-Audit Results-
 
 The analysis of the election show that-
 
@@ -37,7 +37,7 @@ The winner of the election with vote count and percentage-
  - Winning with the percentage of 73.8% of the votes.
 
 
-Election-Audit Summary-
+### Election-Audit Summary-
 
 As demenstrated within the script, it can quickly and accuratley provide basic information on all canadates that exist in the data. This script can easily be modified to:
 
