@@ -1,16 +1,16 @@
 # Election_Analysis
 
-OverView Of Election Audit-
+Overview Of Election Audit-
 
 The total number of votes were counted using Python to help give a better visual representation of all votes casted towards all three people running. To help understand what counties are voting the most in the election process.
 
-Election-Audit Results
+Election-Audit Results-
 
-The analysis of the election show that:
+The analysis of the election show that-
 
-Total Votes counted was 369,711
+ - Total Votes counted was 369,711
 
-County Votes:
+County Votes-
 
 Jefferson: 10.5% (38,855)
 
