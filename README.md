@@ -35,3 +35,13 @@ The winner of the election with vote count and percentage-
 Diana DeGette
 
 Winning with the percentage of 73.8% of the votes.
+
+
+Election-Audit Summary-
+
+As demenstrated within the script, it can quickly and accuratley provide basic information on all canadates that exist in the data. This script can easily be modified to:
+
+1. By adding a new grouping within the code we can add political affiliation sections.
+
+2. By adding headers and modifing the code we can then provide results to multiple elected offices. This would allow the code to be ran once per election instead of individual races.
+
