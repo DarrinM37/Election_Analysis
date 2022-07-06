@@ -1,6 +1,6 @@
 # Election_Analysis
 
-Overview Of Election Audit-
+### Overview Of Election Audit-
 
 The total number of votes were counted using Python to help give a better visual representation of all votes casted towards all three people running. To help understand what counties are voting the most in the election process.
 
@@ -12,11 +12,11 @@ The analysis of the election show that-
 
 County Votes-
 
-Jefferson: 10.5% (38,855)
+ - Jefferson: 10.5% (38,855)
 
-Denver: 82.8% (306,055)
+ - Denver: 82.8% (306,055)
 
-Arapahoe: 6.7% (24,801)
+ - Arapahoe: 6.7% (24,801)
 
 With Denver having the highest number of votes as seen in the data avove.
 
@@ -24,17 +24,17 @@ With Denver having the highest number of votes as seen in the data avove.
 
 The candidate results with votes and percentage of the vote are as follows-
 
-Charles Casper Stockham: 23.0% (85,213)
+ - Charles Casper Stockham: 23.0% (85,213)
 
-Diana DeGette: 73.8% (272,892)
+ - Diana DeGette: 73.8% (272,892)
 
-Raymon Anthony Doane: 3.1% (11,606)
+ - Raymon Anthony Doane: 3.1% (11,606)
 
 The winner of the election with vote count and percentage-
 
-Diana DeGette
+ - Diana DeGette
 
-Winning with the percentage of 73.8% of the votes.
+ - Winning with the percentage of 73.8% of the votes.
 
 
 Election-Audit Summary-
